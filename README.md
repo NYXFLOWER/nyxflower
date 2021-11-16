@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 [![info](https://github-readme-stats.vercel.app/api?username=nyxflower&show_icons=true&line_height=20&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyxflower&layout=compact&langs_count=6&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyxflower&layout=compact&langs_count=6&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) -->
