@@ -1,0 +1,312 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 200">
+  <clipPath id="rc">
+    <rect width="840" height="200" rx="12"/>
+  </clipPath>
+
+  <g clip-path="url(#rc)">
+    <!-- Background -->
+    <rect width="840" height="200" fill="#1a1b27"/>
+
+    <!-- ═══ Top impressionist pixel strip ═══ -->
+    <g shape-rendering="crispEdges" opacity="0.85">
+      <rect x="0" y="0" width="42" height="4" fill="#9B8EC4"/>
+      <rect x="42" y="0" width="38" height="4" fill="#E8C547"/>
+      <rect x="80" y="0" width="44" height="4" fill="#D4839C"/>
+      <rect x="124" y="0" width="36" height="4" fill="#7EB6D4"/>
+      <rect x="160" y="0" width="40" height="4" fill="#7DB88F"/>
+      <rect x="200" y="0" width="38" height="4" fill="#E8A87C"/>
+      <rect x="238" y="0" width="42" height="4" fill="#9B8EC4"/>
+      <rect x="280" y="0" width="40" height="4" fill="#E8C547"/>
+      <rect x="320" y="0" width="36" height="4" fill="#D4839C"/>
+      <rect x="356" y="0" width="44" height="4" fill="#7EB6D4"/>
+      <rect x="400" y="0" width="38" height="4" fill="#7DB88F"/>
+      <rect x="438" y="0" width="42" height="4" fill="#E8A87C"/>
+      <rect x="480" y="0" width="40" height="4" fill="#9B8EC4"/>
+      <rect x="520" y="0" width="36" height="4" fill="#E8C547"/>
+      <rect x="556" y="0" width="44" height="4" fill="#D4839C"/>
+      <rect x="600" y="0" width="38" height="4" fill="#7EB6D4"/>
+      <rect x="638" y="0" width="42" height="4" fill="#7DB88F"/>
+      <rect x="680" y="0" width="40" height="4" fill="#E8A87C"/>
+      <rect x="720" y="0" width="36" height="4" fill="#9B8EC4"/>
+      <rect x="756" y="0" width="44" height="4" fill="#E8C547"/>
+      <rect x="800" y="0" width="40" height="4" fill="#D4839C"/>
+    </g>
+    <!-- Second staggered row -->
+    <g shape-rendering="crispEdges" opacity="0.5">
+      <rect x="20" y="4" width="40" height="3" fill="#E8C547"/>
+      <rect x="60" y="4" width="38" height="3" fill="#D4839C"/>
+      <rect x="98" y="4" width="42" height="3" fill="#7EB6D4"/>
+      <rect x="140" y="4" width="36" height="3" fill="#7DB88F"/>
+      <rect x="176" y="4" width="44" height="3" fill="#E8A87C"/>
+      <rect x="220" y="4" width="38" height="3" fill="#9B8EC4"/>
+      <rect x="258" y="4" width="40" height="3" fill="#E8C547"/>
+      <rect x="298" y="4" width="42" height="3" fill="#D4839C"/>
+      <rect x="340" y="4" width="36" height="3" fill="#7EB6D4"/>
+      <rect x="376" y="4" width="44" height="3" fill="#7DB88F"/>
+      <rect x="420" y="4" width="38" height="3" fill="#E8A87C"/>
+      <rect x="458" y="4" width="42" height="3" fill="#9B8EC4"/>
+      <rect x="500" y="4" width="40" height="3" fill="#E8C547"/>
+      <rect x="540" y="4" width="36" height="3" fill="#D4839C"/>
+      <rect x="576" y="4" width="44" height="3" fill="#7EB6D4"/>
+      <rect x="620" y="4" width="38" height="3" fill="#7DB88F"/>
+      <rect x="658" y="4" width="42" height="3" fill="#E8A87C"/>
+      <rect x="700" y="4" width="40" height="3" fill="#9B8EC4"/>
+      <rect x="740" y="4" width="36" height="3" fill="#E8C547"/>
+      <rect x="776" y="4" width="44" height="3" fill="#D4839C"/>
+      <rect x="820" y="4" width="20" height="3" fill="#7EB6D4"/>
+    </g>
+
+    <!-- ═══ Bottom impressionist pixel strip ═══ -->
+    <g shape-rendering="crispEdges" opacity="0.85">
+      <rect x="0" y="196" width="40" height="4" fill="#7DB88F"/>
+      <rect x="40" y="196" width="42" height="4" fill="#E8A87C"/>
+      <rect x="82" y="196" width="38" height="4" fill="#9B8EC4"/>
+      <rect x="120" y="196" width="44" height="4" fill="#E8C547"/>
+      <rect x="164" y="196" width="36" height="4" fill="#D4839C"/>
+      <rect x="200" y="196" width="40" height="4" fill="#7EB6D4"/>
+      <rect x="240" y="196" width="42" height="4" fill="#7DB88F"/>
+      <rect x="282" y="196" width="38" height="4" fill="#E8A87C"/>
+      <rect x="320" y="196" width="44" height="4" fill="#9B8EC4"/>
+      <rect x="364" y="196" width="36" height="4" fill="#E8C547"/>
+      <rect x="400" y="196" width="40" height="4" fill="#D4839C"/>
+      <rect x="440" y="196" width="42" height="4" fill="#7EB6D4"/>
+      <rect x="482" y="196" width="38" height="4" fill="#7DB88F"/>
+      <rect x="520" y="196" width="44" height="4" fill="#E8A87C"/>
+      <rect x="564" y="196" width="36" height="4" fill="#9B8EC4"/>
+      <rect x="600" y="196" width="40" height="4" fill="#E8C547"/>
+      <rect x="640" y="196" width="42" height="4" fill="#D4839C"/>
+      <rect x="682" y="196" width="38" height="4" fill="#7EB6D4"/>
+      <rect x="720" y="196" width="40" height="4" fill="#7DB88F"/>
+      <rect x="760" y="196" width="44" height="4" fill="#E8A87C"/>
+      <rect x="804" y="196" width="36" height="4" fill="#9B8EC4"/>
+    </g>
+    <g shape-rendering="crispEdges" opacity="0.5">
+      <rect x="10" y="193" width="42" height="3" fill="#E8A87C"/>
+      <rect x="52" y="193" width="38" height="3" fill="#9B8EC4"/>
+      <rect x="90" y="193" width="40" height="3" fill="#E8C547"/>
+      <rect x="130" y="193" width="44" height="3" fill="#D4839C"/>
+      <rect x="174" y="193" width="36" height="3" fill="#7EB6D4"/>
+      <rect x="210" y="193" width="42" height="3" fill="#7DB88F"/>
+      <rect x="252" y="193" width="38" height="3" fill="#E8A87C"/>
+      <rect x="290" y="193" width="40" height="3" fill="#9B8EC4"/>
+      <rect x="330" y="193" width="44" height="3" fill="#E8C547"/>
+      <rect x="374" y="193" width="36" height="3" fill="#D4839C"/>
+      <rect x="410" y="193" width="42" height="3" fill="#7EB6D4"/>
+      <rect x="452" y="193" width="38" height="3" fill="#7DB88F"/>
+      <rect x="490" y="193" width="40" height="3" fill="#E8A87C"/>
+      <rect x="530" y="193" width="44" height="3" fill="#9B8EC4"/>
+      <rect x="574" y="193" width="36" height="3" fill="#E8C547"/>
+      <rect x="610" y="193" width="42" height="3" fill="#D4839C"/>
+      <rect x="652" y="193" width="38" height="3" fill="#7EB6D4"/>
+      <rect x="690" y="193" width="40" height="3" fill="#7DB88F"/>
+      <rect x="730" y="193" width="44" height="3" fill="#E8A87C"/>
+      <rect x="774" y="193" width="36" height="3" fill="#9B8EC4"/>
+      <rect x="810" y="193" width="30" height="3" fill="#E8C547"/>
+    </g>
+
+    <!-- ═══ Pixel Art: Impression Sunrise (12x8, 7px pixels) ═══ -->
+    <g shape-rendering="crispEdges">
+      <!-- Thin frame -->
+      <rect x="47" y="67" width="90" height="66" fill="none" stroke="#3A3A4A" stroke-width="1.5"/>
+
+      <!-- Row 0 - Sky -->
+      <rect x="50" y="70" width="7" height="7" fill="#B8A4D0"/>
+      <rect x="57" y="70" width="7" height="7" fill="#E8C9A0"/>
+      <rect x="64" y="70" width="7" height="7" fill="#F0DCC0"/>
+      <rect x="71" y="70" width="7" height="7" fill="#E8C9A0"/>
+      <rect x="78" y="70" width="7" height="7" fill="#B8A4D0"/>
+      <rect x="85" y="70" width="7" height="7" fill="#C4B0D8"/>
+      <rect x="92" y="70" width="7" height="7" fill="#E8C9A0"/>
+      <rect x="99" y="70" width="7" height="7" fill="#F0DCC0"/>
+      <rect x="106" y="70" width="7" height="7" fill="#E8C9A0"/>
+      <rect x="113" y="70" width="7" height="7" fill="#F0DCC0"/>
+      <rect x="120" y="70" width="7" height="7" fill="#B8A4D0"/>
+      <rect x="127" y="70" width="7" height="7" fill="#C4B0D8"/>
+
+      <!-- Row 1 - Sky with sun top -->
+      <rect x="50" y="77" width="7" height="7" fill="#E8C9A0"/>
+      <rect x="57" y="77" width="7" height="7" fill="#F0DCC0"/>
+      <rect x="64" y="77" width="7" height="7" fill="#B8A4D0"/>
+      <rect x="71" y="77" width="7" height="7" fill="#E8C9A0"/>
+      <rect x="78" y="77" width="7" height="7" fill="#F0DCC0"/>
+      <rect x="85" y="77" width="7" height="7" fill="#F0C040"/>
+      <rect x="92" y="77" width="7" height="7" fill="#F0C040"/>
+      <rect x="99" y="77" width="7" height="7" fill="#E8C9A0"/>
+      <rect x="106" y="77" width="7" height="7" fill="#F0DCC0"/>
+      <rect x="113" y="77" width="7" height="7" fill="#B8A4D0"/>
+      <rect x="120" y="77" width="7" height="7" fill="#E8C9A0"/>
+      <rect x="127" y="77" width="7" height="7" fill="#E8C9A0"/>
+
+      <!-- Row 2 - Sky with sun center -->
+      <rect x="50" y="84" width="7" height="7" fill="#F0DCC0"/>
+      <rect x="57" y="84" width="7" height="7" fill="#B8A4D0"/>
+      <rect x="64" y="84" width="7" height="7" fill="#E8C9A0"/>
+      <rect x="71" y="84" width="7" height="7" fill="#F0DCC0"/>
+      <rect x="78" y="84" width="7" height="7" fill="#F0C040"/>
+      <rect x="85" y="84" width="7" height="7" fill="#E89040"/>
+      <rect x="92" y="84" width="7" height="7" fill="#E89040"/>
+      <rect x="99" y="84" width="7" height="7" fill="#F0C040"/>
+      <rect x="106" y="84" width="7" height="7" fill="#E8C9A0"/>
+      <rect x="113" y="84" width="7" height="7" fill="#E8C9A0"/>
+      <rect x="120" y="84" width="7" height="7" fill="#F0DCC0"/>
+      <rect x="127" y="84" width="7" height="7" fill="#E8C9A0"/>
+
+      <!-- Row 3 - Sky with sun bottom -->
+      <rect x="50" y="91" width="7" height="7" fill="#E8C9A0"/>
+      <rect x="57" y="91" width="7" height="7" fill="#E8C9A0"/>
+      <rect x="64" y="91" width="7" height="7" fill="#F0DCC0"/>
+      <rect x="71" y="91" width="7" height="7" fill="#B8A4D0"/>
+      <rect x="78" y="91" width="7" height="7" fill="#F0DCC0"/>
+      <rect x="85" y="91" width="7" height="7" fill="#F0C040"/>
+      <rect x="92" y="91" width="7" height="7" fill="#F0C040"/>
+      <rect x="99" y="91" width="7" height="7" fill="#E8C9A0"/>
+      <rect x="106" y="91" width="7" height="7" fill="#B8A4D0"/>
+      <rect x="113" y="91" width="7" height="7" fill="#E8C9A0"/>
+      <rect x="120" y="91" width="7" height="7" fill="#E8C9A0"/>
+      <rect x="127" y="91" width="7" height="7" fill="#B8A4D0"/>
+
+      <!-- Row 4 - Water -->
+      <rect x="50" y="98" width="7" height="7" fill="#5CA0C4"/>
+      <rect x="57" y="98" width="7" height="7" fill="#7EB6D4"/>
+      <rect x="64" y="98" width="7" height="7" fill="#5CA0C4"/>
+      <rect x="71" y="98" width="7" height="7" fill="#7EB6D4"/>
+      <rect x="78" y="98" width="7" height="7" fill="#5CA0C4"/>
+      <rect x="85" y="98" width="7" height="7" fill="#7EB6D4"/>
+      <rect x="92" y="98" width="7" height="7" fill="#7EB6D4"/>
+      <rect x="99" y="98" width="7" height="7" fill="#5CA0C4"/>
+      <rect x="106" y="98" width="7" height="7" fill="#7EB6D4"/>
+      <rect x="113" y="98" width="7" height="7" fill="#5CA0C4"/>
+      <rect x="120" y="98" width="7" height="7" fill="#7EB6D4"/>
+      <rect x="127" y="98" width="7" height="7" fill="#5CA0C4"/>
+
+      <!-- Row 5 - Water with reflection -->
+      <rect x="50" y="105" width="7" height="7" fill="#7EB6D4"/>
+      <rect x="57" y="105" width="7" height="7" fill="#5CA0C4"/>
+      <rect x="64" y="105" width="7" height="7" fill="#7EB6D4"/>
+      <rect x="71" y="105" width="7" height="7" fill="#5CA0C4"/>
+      <rect x="78" y="105" width="7" height="7" fill="#7EB6D4"/>
+      <rect x="85" y="105" width="7" height="7" fill="#D0A030"/>
+      <rect x="92" y="105" width="7" height="7" fill="#D0A030"/>
+      <rect x="99" y="105" width="7" height="7" fill="#5CA0C4"/>
+      <rect x="106" y="105" width="7" height="7" fill="#7EB6D4"/>
+      <rect x="113" y="105" width="7" height="7" fill="#5CA0C4"/>
+      <rect x="120" y="105" width="7" height="7" fill="#7EB6D4"/>
+      <rect x="127" y="105" width="7" height="7" fill="#5CA0C4"/>
+
+      <!-- Row 6 - Water with reflection -->
+      <rect x="50" y="112" width="7" height="7" fill="#5CA0C4"/>
+      <rect x="57" y="112" width="7" height="7" fill="#7EB6D4"/>
+      <rect x="64" y="112" width="7" height="7" fill="#5CA0C4"/>
+      <rect x="71" y="112" width="7" height="7" fill="#7EB6D4"/>
+      <rect x="78" y="112" width="7" height="7" fill="#5CA0C4"/>
+      <rect x="85" y="112" width="7" height="7" fill="#7EB6D4"/>
+      <rect x="92" y="112" width="7" height="7" fill="#D0A030"/>
+      <rect x="99" y="112" width="7" height="7" fill="#7EB6D4"/>
+      <rect x="106" y="112" width="7" height="7" fill="#5CA0C4"/>
+      <rect x="113" y="112" width="7" height="7" fill="#7EB6D4"/>
+      <rect x="120" y="112" width="7" height="7" fill="#5CA0C4"/>
+      <rect x="127" y="112" width="7" height="7" fill="#7EB6D4"/>
+
+      <!-- Row 7 - Deep water -->
+      <rect x="50" y="119" width="7" height="7" fill="#3A7CA0"/>
+      <rect x="57" y="119" width="7" height="7" fill="#5CA0C4"/>
+      <rect x="64" y="119" width="7" height="7" fill="#7EB6D4"/>
+      <rect x="71" y="119" width="7" height="7" fill="#5CA0C4"/>
+      <rect x="78" y="119" width="7" height="7" fill="#7EB6D4"/>
+      <rect x="85" y="119" width="7" height="7" fill="#5CA0C4"/>
+      <rect x="92" y="119" width="7" height="7" fill="#7EB6D4"/>
+      <rect x="99" y="119" width="7" height="7" fill="#5CA0C4"/>
+      <rect x="106" y="119" width="7" height="7" fill="#7EB6D4"/>
+      <rect x="113" y="119" width="7" height="7" fill="#5CA0C4"/>
+      <rect x="120" y="119" width="7" height="7" fill="#7EB6D4"/>
+      <rect x="127" y="119" width="7" height="7" fill="#3A7CA0"/>
+    </g>
+
+    <!-- ═══ Pixel Art: Small Flower (right accent) ═══ -->
+    <g shape-rendering="crispEdges">
+      <!-- Row 0: petals -->
+      <rect x="735" y="78" width="5" height="5" fill="#9B8EC4"/>
+      <rect x="745" y="78" width="5" height="5" fill="#9B8EC4"/>
+      <!-- Row 1: petals -->
+      <rect x="730" y="83" width="5" height="5" fill="#9B8EC4"/>
+      <rect x="735" y="83" width="5" height="5" fill="#D4839C"/>
+      <rect x="740" y="83" width="5" height="5" fill="#9B8EC4"/>
+      <rect x="745" y="83" width="5" height="5" fill="#D4839C"/>
+      <rect x="750" y="83" width="5" height="5" fill="#9B8EC4"/>
+      <!-- Row 2: center -->
+      <rect x="735" y="88" width="5" height="5" fill="#D4839C"/>
+      <rect x="740" y="88" width="5" height="5" fill="#E8C547"/>
+      <rect x="745" y="88" width="5" height="5" fill="#D4839C"/>
+      <!-- Row 3: petals -->
+      <rect x="735" y="93" width="5" height="5" fill="#9B8EC4"/>
+      <rect x="740" y="93" width="5" height="5" fill="#D4839C"/>
+      <rect x="745" y="93" width="5" height="5" fill="#9B8EC4"/>
+      <!-- Row 4: stem -->
+      <rect x="740" y="98" width="5" height="5" fill="#7DB88F"/>
+      <!-- Row 5: leaves -->
+      <rect x="735" y="103" width="5" height="5" fill="#7DB88F"/>
+      <rect x="740" y="103" width="5" height="5" fill="#7DB88F"/>
+      <rect x="745" y="103" width="5" height="5" fill="#7DB88F"/>
+      <!-- Row 6: stem -->
+      <rect x="740" y="108" width="5" height="5" fill="#7DB88F"/>
+    </g>
+
+    <!-- ═══ Scattered ambient pixels ═══ -->
+    <g shape-rendering="crispEdges">
+      <rect x="160" y="75" width="4" height="4" fill="#9B8EC4" opacity="0.35"/>
+      <rect x="172" y="88" width="4" height="4" fill="#E8C547" opacity="0.25"/>
+      <rect x="155" y="108" width="4" height="4" fill="#D4839C" opacity="0.3"/>
+      <rect x="168" y="120" width="4" height="4" fill="#7EB6D4" opacity="0.25"/>
+
+      <rect x="700" y="68" width="4" height="4" fill="#7DB88F" opacity="0.25"/>
+      <rect x="715" y="82" width="4" height="4" fill="#E8C547" opacity="0.3"/>
+      <rect x="762" y="72" width="4" height="4" fill="#D4839C" opacity="0.25"/>
+      <rect x="770" y="115" width="4" height="4" fill="#9B8EC4" opacity="0.35"/>
+      <rect x="720" y="110" width="4" height="4" fill="#7EB6D4" opacity="0.25"/>
+
+      <rect x="220" y="165" width="3" height="3" fill="#9B8EC4" opacity="0.2"/>
+      <rect x="380" y="160" width="3" height="3" fill="#E8C547" opacity="0.18"/>
+      <rect x="540" y="168" width="3" height="3" fill="#D4839C" opacity="0.2"/>
+      <rect x="660" y="162" width="3" height="3" fill="#7DB88F" opacity="0.18"/>
+
+      <rect x="270" y="28" width="3" height="3" fill="#7EB6D4" opacity="0.18"/>
+      <rect x="430" y="24" width="3" height="3" fill="#E8A87C" opacity="0.2"/>
+      <rect x="580" y="30" width="3" height="3" fill="#9B8EC4" opacity="0.18"/>
+    </g>
+
+    <!-- ═══ Text ═══ -->
+    <!-- Name -->
+    <text x="440" y="82" text-anchor="middle" fill="#E8E8E8" font-family="'Courier New', Courier, monospace" font-size="30" font-weight="bold" letter-spacing="6">FLOWER XU</text>
+
+    <!-- Subtitle -->
+    <text x="440" y="108" text-anchor="middle" fill="#9B8EC4" font-family="'Courier New', Courier, monospace" font-size="13" letter-spacing="2">PhD  ·  UC San Diego  ·  Computer Science</text>
+
+    <!-- Japanese quote -->
+    <text x="440" y="134" text-anchor="middle" fill="#7DB88F" font-family="sans-serif" font-size="12" opacity="0.75">今日はまた素晴らしい日です</text>
+
+    <!-- Pixel separator dots -->
+    <g shape-rendering="crispEdges" opacity="0.3">
+      <rect x="360" y="148" width="4" height="4" fill="#9B8EC4"/>
+      <rect x="370" y="148" width="4" height="4" fill="#E8C547"/>
+      <rect x="380" y="148" width="4" height="4" fill="#D4839C"/>
+      <rect x="390" y="148" width="4" height="4" fill="#7EB6D4"/>
+      <rect x="400" y="148" width="4" height="4" fill="#7DB88F"/>
+      <rect x="410" y="148" width="4" height="4" fill="#E8A87C"/>
+      <rect x="460" y="148" width="4" height="4" fill="#E8A87C"/>
+      <rect x="470" y="148" width="4" height="4" fill="#7DB88F"/>
+      <rect x="480" y="148" width="4" height="4" fill="#7EB6D4"/>
+      <rect x="490" y="148" width="4" height="4" fill="#D4839C"/>
+      <rect x="500" y="148" width="4" height="4" fill="#E8C547"/>
+      <rect x="510" y="148" width="4" height="4" fill="#9B8EC4"/>
+    </g>
+
+    <!-- Contact pixel icons -->
+    <g opacity="0.5" shape-rendering="crispEdges">
+      <rect x="400" y="163" width="7" height="7" fill="#9B8EC4" rx="1"/>
+      <rect x="415" y="163" width="7" height="7" fill="#E8C547" rx="1"/>
+      <rect x="430" y="163" width="7" height="7" fill="#D4839C" rx="1"/>
+      <rect x="445" y="163" width="7" height="7" fill="#7EB6D4" rx="1"/>
+      <rect x="460" y="163" width="7" height="7" fill="#7DB88F" rx="1"/>
+    </g>
+  </g>
+</svg>
