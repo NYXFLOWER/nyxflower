@@ -8,27 +8,23 @@
   <br/><br/>
 
   [![Website](https://img.shields.io/badge/Website-flowerxu.ucsd.edu-454878?style=flat-square&labelColor=2A2D3E)](https://flowerxu.ucsd.edu)
-  [![Scholar](https://img.shields.io/badge/Scholar-Flower_Xu-C4707A?style=flat-square&labelColor=2A2D3E)](https://scholar.google.com/citations?user=5WoBm1gAAAAJ)
-  [![Twitter](https://img.shields.io/badge/Twitter-@Nyx__Flower-8BA4C4?style=flat-square&labelColor=2A2D3E)](https://twitter.com/Nyx_Flower)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-hxu999-9B7A90?style=flat-square&labelColor=2A2D3E)](https://linkedin.com/in/hxu999)
-  [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--2546--5528-7DA088?style=flat-square&labelColor=2A2D3E)](https://orcid.org/0000-0003-2546-5528)
+  [![Scholar](https://img.shields.io/badge/Google_Scholar-Flower_Xu-454878?style=flat-square&labelColor=2A2D3E)](https://scholar.google.com/citations?user=5WoBm1gAAAAJ)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-hxu999-454878?style=flat-square&labelColor=2A2D3E)](https://linkedin.com/in/hxu999)
 </div>
 
 ---
 
 ### `> about`
 
-CS PhD student at **UC San Diego**, advised by Prof. Nuno Bandeira. Building machine learning systems for large-scale retrieval, recommendation, and scientific discovery. Research spans foundation models, graph neural networks, and interpretable learning.
+CS PhD student at the **University of California, San Diego**, working under the supervision of Prof. Nuno Bandeira. My research focuses on developing machine learning methods — including retrieval, reranking, generative models, and graph neural networks — with applications in mass spectrometry-based proteomics and recommendation systems.
 
-Previously at **Queen's University** (Prof. Laurence Yang) and **Samumed LLC**. MSc in CS from the **University of Sheffield** — Fretwell-Downing Prize for Best Dissertation.
+Previously, I was a Machine Learning Scientist Intern at **TikTok Inc.** (2025), designing graph neural networks for large-scale social recommendation. Before that, I worked as a researcher applying ML to computational biology at **Queen's University** with Prof. Laurence Yang, and as a machine learning consultant at **Samumed LLC**. This summer (2026), I will be a Research Scientist Intern at **GenBio AI** working on human foundation models.
+
+I hold an honoured MSc in Computer Science from the **University of Sheffield**, where I earned the Fretwell-Downing Prize for the best M.Sc. Dissertation. I also received the D. E. Shaw Graduate and Postdoctoral Fellowship in 2023.
 
 ### `> research`
 
-![](https://img.shields.io/badge/Retrieval_&_Ranking-454878?style=flat-square)
-![](https://img.shields.io/badge/Graph_Neural_Networks-7B6B9E?style=flat-square)
-![](https://img.shields.io/badge/Recommendation_Systems-9B7A90?style=flat-square)
-![](https://img.shields.io/badge/Computational_Biology-C4707A?style=flat-square)
-![](https://img.shields.io/badge/Interpretable_ML-8BA4C4?style=flat-square)
+`Retrieval & Ranking` `Graph Neural Networks` `Recommendation Systems` `Computational Biology` `Interpretable ML`
 
 ---
 
