@@ -1,0 +1,258 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 200">
+  <clipPath id="rc"><rect width="840" height="200" rx="12"/></clipPath>
+  <g clip-path="url(#rc)">
+    <rect width="840" height="200" fill="#2A2D3E"/>
+
+    <!-- ═══ Scattered pixel flowers ═══ -->
+    <g shape-rendering="crispEdges">
+
+      <!-- Medium flowers (px=4-5) -->
+      <!-- Flower 1: pink, (55,55), px=4 -->
+      <g opacity="0.5">
+        <rect x="51" y="55" width="4" height="4" fill="#E8B4C0"/>
+        <rect x="59" y="55" width="4" height="4" fill="#E8B4C0"/>
+        <rect x="55" y="51" width="4" height="4" fill="#E8B4C0"/>
+        <rect x="55" y="59" width="4" height="4" fill="#E8B4C0"/>
+        <rect x="55" y="55" width="4" height="4" fill="#C4707A"/>
+        <rect x="55" y="63" width="4" height="4" fill="#7DA088"/>
+        <rect x="55" y="67" width="4" height="4" fill="#7DA088"/>
+      </g>
+      <!-- Flower 2: lavender, (780,50), px=4 -->
+      <g opacity="0.5">
+        <rect x="776" y="50" width="4" height="4" fill="#B8A0CC"/>
+        <rect x="784" y="50" width="4" height="4" fill="#B8A0CC"/>
+        <rect x="780" y="46" width="4" height="4" fill="#B8A0CC"/>
+        <rect x="780" y="54" width="4" height="4" fill="#B8A0CC"/>
+        <rect x="780" y="50" width="4" height="4" fill="#9B7A90"/>
+        <rect x="780" y="58" width="4" height="4" fill="#7DA088"/>
+        <rect x="780" y="62" width="4" height="4" fill="#7DA088"/>
+      </g>
+      <!-- Flower 3: blue, (750,155), px=5 -->
+      <g opacity="0.45">
+        <rect x="745" y="155" width="5" height="5" fill="#8BA4C4"/>
+        <rect x="755" y="155" width="5" height="5" fill="#8BA4C4"/>
+        <rect x="750" y="150" width="5" height="5" fill="#8BA4C4"/>
+        <rect x="750" y="160" width="5" height="5" fill="#8BA4C4"/>
+        <rect x="750" y="155" width="5" height="5" fill="#6B84A4"/>
+        <rect x="750" y="165" width="5" height="5" fill="#7DA088"/>
+        <rect x="750" y="170" width="5" height="5" fill="#7DA088"/>
+      </g>
+
+      <!-- Small flowers (px=3) -->
+      <!-- Flower 4: lavender, (30,140) -->
+      <g opacity="0.4">
+        <rect x="27" y="140" width="3" height="3" fill="#B8A0CC"/>
+        <rect x="33" y="140" width="3" height="3" fill="#B8A0CC"/>
+        <rect x="30" y="137" width="3" height="3" fill="#B8A0CC"/>
+        <rect x="30" y="143" width="3" height="3" fill="#B8A0CC"/>
+        <rect x="30" y="140" width="3" height="3" fill="#9B7A90"/>
+        <rect x="30" y="146" width="3" height="3" fill="#7DA088"/>
+      </g>
+      <!-- Flower 5: blue, (130,30) -->
+      <g opacity="0.4">
+        <rect x="127" y="30" width="3" height="3" fill="#8BA4C4"/>
+        <rect x="133" y="30" width="3" height="3" fill="#8BA4C4"/>
+        <rect x="130" y="27" width="3" height="3" fill="#8BA4C4"/>
+        <rect x="130" y="33" width="3" height="3" fill="#8BA4C4"/>
+        <rect x="130" y="30" width="3" height="3" fill="#6B84A4"/>
+      </g>
+      <!-- Flower 6: pink, (260,165) -->
+      <g opacity="0.4">
+        <rect x="257" y="165" width="3" height="3" fill="#E8B4C0"/>
+        <rect x="263" y="165" width="3" height="3" fill="#E8B4C0"/>
+        <rect x="260" y="162" width="3" height="3" fill="#E8B4C0"/>
+        <rect x="260" y="168" width="3" height="3" fill="#E8B4C0"/>
+        <rect x="260" y="165" width="3" height="3" fill="#C4707A"/>
+        <rect x="260" y="171" width="3" height="3" fill="#7DA088"/>
+      </g>
+      <!-- Flower 7: lavender, (480,25) -->
+      <g opacity="0.4">
+        <rect x="477" y="25" width="3" height="3" fill="#B8A0CC"/>
+        <rect x="483" y="25" width="3" height="3" fill="#B8A0CC"/>
+        <rect x="480" y="22" width="3" height="3" fill="#B8A0CC"/>
+        <rect x="480" y="28" width="3" height="3" fill="#B8A0CC"/>
+        <rect x="480" y="25" width="3" height="3" fill="#9B7A90"/>
+      </g>
+      <!-- Flower 8: pink, (630,170) -->
+      <g opacity="0.4">
+        <rect x="627" y="170" width="3" height="3" fill="#E8B4C0"/>
+        <rect x="633" y="170" width="3" height="3" fill="#E8B4C0"/>
+        <rect x="630" y="167" width="3" height="3" fill="#E8B4C0"/>
+        <rect x="630" y="173" width="3" height="3" fill="#E8B4C0"/>
+        <rect x="630" y="170" width="3" height="3" fill="#C4707A"/>
+        <rect x="630" y="176" width="3" height="3" fill="#7DA088"/>
+      </g>
+      <!-- Flower 9: blue, (700,85) -->
+      <g opacity="0.4">
+        <rect x="697" y="85" width="3" height="3" fill="#8BA4C4"/>
+        <rect x="703" y="85" width="3" height="3" fill="#8BA4C4"/>
+        <rect x="700" y="82" width="3" height="3" fill="#8BA4C4"/>
+        <rect x="700" y="88" width="3" height="3" fill="#8BA4C4"/>
+        <rect x="700" y="85" width="3" height="3" fill="#6B84A4"/>
+        <rect x="700" y="91" width="3" height="3" fill="#7DA088"/>
+      </g>
+      <!-- Flower 10: pink, (170,95) -->
+      <g opacity="0.35">
+        <rect x="167" y="95" width="3" height="3" fill="#E8B4C0"/>
+        <rect x="173" y="95" width="3" height="3" fill="#E8B4C0"/>
+        <rect x="170" y="92" width="3" height="3" fill="#E8B4C0"/>
+        <rect x="170" y="98" width="3" height="3" fill="#E8B4C0"/>
+        <rect x="170" y="95" width="3" height="3" fill="#C4707A"/>
+      </g>
+      <!-- Flower 11: lavender, (820,130) -->
+      <g opacity="0.35">
+        <rect x="817" y="130" width="3" height="3" fill="#B8A0CC"/>
+        <rect x="823" y="130" width="3" height="3" fill="#B8A0CC"/>
+        <rect x="820" y="127" width="3" height="3" fill="#B8A0CC"/>
+        <rect x="820" y="133" width="3" height="3" fill="#B8A0CC"/>
+        <rect x="820" y="130" width="3" height="3" fill="#9B7A90"/>
+      </g>
+
+      <!-- Tiny flowers (px=2) -->
+      <!-- Flower 12: blue, (90,165) -->
+      <g opacity="0.25">
+        <rect x="88" y="165" width="2" height="2" fill="#8BA4C4"/>
+        <rect x="92" y="165" width="2" height="2" fill="#8BA4C4"/>
+        <rect x="90" y="163" width="2" height="2" fill="#8BA4C4"/>
+        <rect x="90" y="167" width="2" height="2" fill="#8BA4C4"/>
+        <rect x="90" y="165" width="2" height="2" fill="#6B84A4"/>
+      </g>
+      <!-- Flower 13: lavender, (200,40) -->
+      <g opacity="0.25">
+        <rect x="198" y="40" width="2" height="2" fill="#B8A0CC"/>
+        <rect x="202" y="40" width="2" height="2" fill="#B8A0CC"/>
+        <rect x="200" y="38" width="2" height="2" fill="#B8A0CC"/>
+        <rect x="200" y="42" width="2" height="2" fill="#B8A0CC"/>
+        <rect x="200" y="40" width="2" height="2" fill="#9B7A90"/>
+      </g>
+      <!-- Flower 14: pink, (340,155) -->
+      <g opacity="0.25">
+        <rect x="338" y="155" width="2" height="2" fill="#E8B4C0"/>
+        <rect x="342" y="155" width="2" height="2" fill="#E8B4C0"/>
+        <rect x="340" y="153" width="2" height="2" fill="#E8B4C0"/>
+        <rect x="340" y="157" width="2" height="2" fill="#E8B4C0"/>
+        <rect x="340" y="155" width="2" height="2" fill="#C4707A"/>
+      </g>
+      <!-- Flower 15: blue, (400,45) -->
+      <g opacity="0.2">
+        <rect x="398" y="45" width="2" height="2" fill="#8BA4C4"/>
+        <rect x="402" y="45" width="2" height="2" fill="#8BA4C4"/>
+        <rect x="400" y="43" width="2" height="2" fill="#8BA4C4"/>
+        <rect x="400" y="47" width="2" height="2" fill="#8BA4C4"/>
+        <rect x="400" y="45" width="2" height="2" fill="#6B84A4"/>
+      </g>
+      <!-- Flower 16: lavender, (510,160) -->
+      <g opacity="0.25">
+        <rect x="508" y="160" width="2" height="2" fill="#B8A0CC"/>
+        <rect x="512" y="160" width="2" height="2" fill="#B8A0CC"/>
+        <rect x="510" y="158" width="2" height="2" fill="#B8A0CC"/>
+        <rect x="510" y="162" width="2" height="2" fill="#B8A0CC"/>
+        <rect x="510" y="160" width="2" height="2" fill="#9B7A90"/>
+      </g>
+      <!-- Flower 17: pink, (560,35) -->
+      <g opacity="0.2">
+        <rect x="558" y="35" width="2" height="2" fill="#E8B4C0"/>
+        <rect x="562" y="35" width="2" height="2" fill="#E8B4C0"/>
+        <rect x="560" y="33" width="2" height="2" fill="#E8B4C0"/>
+        <rect x="560" y="37" width="2" height="2" fill="#E8B4C0"/>
+        <rect x="560" y="35" width="2" height="2" fill="#C4707A"/>
+      </g>
+      <!-- Flower 18: lavender, (650,100) -->
+      <g opacity="0.2">
+        <rect x="648" y="100" width="2" height="2" fill="#B8A0CC"/>
+        <rect x="652" y="100" width="2" height="2" fill="#B8A0CC"/>
+        <rect x="650" y="98" width="2" height="2" fill="#B8A0CC"/>
+        <rect x="650" y="102" width="2" height="2" fill="#B8A0CC"/>
+        <rect x="650" y="100" width="2" height="2" fill="#9B7A90"/>
+      </g>
+      <!-- Flower 19: pink, (100,80) -->
+      <g opacity="0.2">
+        <rect x="98" y="80" width="2" height="2" fill="#E8B4C0"/>
+        <rect x="102" y="80" width="2" height="2" fill="#E8B4C0"/>
+        <rect x="100" y="78" width="2" height="2" fill="#E8B4C0"/>
+        <rect x="100" y="82" width="2" height="2" fill="#E8B4C0"/>
+        <rect x="100" y="80" width="2" height="2" fill="#C4707A"/>
+      </g>
+      <!-- Flower 20: blue, (440,140) -->
+      <g opacity="0.2">
+        <rect x="438" y="140" width="2" height="2" fill="#8BA4C4"/>
+        <rect x="442" y="140" width="2" height="2" fill="#8BA4C4"/>
+        <rect x="440" y="138" width="2" height="2" fill="#8BA4C4"/>
+        <rect x="440" y="142" width="2" height="2" fill="#8BA4C4"/>
+        <rect x="440" y="140" width="2" height="2" fill="#6B84A4"/>
+      </g>
+      <!-- Flower 21: pink, (580,150) -->
+      <g opacity="0.2">
+        <rect x="578" y="150" width="2" height="2" fill="#E8B4C0"/>
+        <rect x="582" y="150" width="2" height="2" fill="#E8B4C0"/>
+        <rect x="580" y="148" width="2" height="2" fill="#E8B4C0"/>
+        <rect x="580" y="152" width="2" height="2" fill="#E8B4C0"/>
+        <rect x="580" y="150" width="2" height="2" fill="#C4707A"/>
+      </g>
+
+      <!-- Loose single petals (atmosphere) -->
+      <rect x="15" y="25" width="2" height="2" fill="#E8B4C0" opacity="0.15"/>
+      <rect x="45" y="170" width="2" height="2" fill="#B8A0CC" opacity="0.1"/>
+      <rect x="190" y="160" width="2" height="2" fill="#8BA4C4" opacity="0.12"/>
+      <rect x="310" y="30" width="2" height="2" fill="#E8B4C0" opacity="0.1"/>
+      <rect x="420" y="180" width="2" height="2" fill="#B8A0CC" opacity="0.1"/>
+      <rect x="570" y="20" width="2" height="2" fill="#E8B4C0" opacity="0.12"/>
+      <rect x="680" y="175" width="2" height="2" fill="#8BA4C4" opacity="0.1"/>
+      <rect x="810" y="40" width="2" height="2" fill="#B8A0CC" opacity="0.12"/>
+
+      <!-- ═══ Logo pixel flower (left of name) ═══ -->
+      <g opacity="0.85">
+        <!-- Cross pattern, px=3 -->
+        <rect x="248" y="49" width="3" height="3" fill="#C4707A"/>
+        <rect x="245" y="52" width="3" height="3" fill="#C4707A"/>
+        <rect x="248" y="52" width="3" height="3" fill="#E8B4C0"/>
+        <rect x="251" y="52" width="3" height="3" fill="#C4707A"/>
+        <rect x="242" y="55" width="3" height="3" fill="#C4707A"/>
+        <rect x="245" y="55" width="3" height="3" fill="#E8B4C0"/>
+        <rect x="248" y="55" width="3" height="3" fill="#E8B4C0"/>
+        <rect x="251" y="55" width="3" height="3" fill="#E8B4C0"/>
+        <rect x="254" y="55" width="3" height="3" fill="#C4707A"/>
+        <rect x="245" y="58" width="3" height="3" fill="#C4707A"/>
+        <rect x="248" y="58" width="3" height="3" fill="#E8B4C0"/>
+        <rect x="251" y="58" width="3" height="3" fill="#C4707A"/>
+        <rect x="248" y="61" width="3" height="3" fill="#C4707A"/>
+        <!-- Stem -->
+        <rect x="248" y="64" width="3" height="3" fill="#7DA088"/>
+        <rect x="248" y="67" width="3" height="3" fill="#7DA088"/>
+        <!-- Leaves -->
+        <rect x="245" y="70" width="3" height="3" fill="#7DA088"/>
+        <rect x="251" y="67" width="3" height="3" fill="#7DA088"/>
+      </g>
+
+      <!-- ═══ Separator dots ═══ -->
+      <g opacity="0.3">
+        <rect x="370" y="152" width="3" height="3" fill="#C4707A"/>
+        <rect x="382" y="152" width="3" height="3" fill="#9B7A90"/>
+        <rect x="394" y="152" width="3" height="3" fill="#6B84A4"/>
+        <rect x="406" y="152" width="3" height="3" fill="#7B6B9E"/>
+        <rect x="418" y="152" width="3" height="3" fill="#7DA088"/>
+        <rect x="430" y="152" width="3" height="3" fill="#C4707A"/>
+        <rect x="442" y="152" width="3" height="3" fill="#9B7A90"/>
+        <rect x="454" y="152" width="3" height="3" fill="#6B84A4"/>
+        <rect x="466" y="152" width="3" height="3" fill="#7B6B9E"/>
+      </g>
+    </g>
+
+    <!-- ═══ Text ═══ -->
+    <text text-anchor="middle" x="440" y="72" font-family="'Courier New', Courier, monospace" font-size="26" font-weight="bold" letter-spacing="3">
+      <tspan fill="#F0EBE3">HAO </tspan><tspan fill="#B8A0CC">(FLOWER) </tspan><tspan fill="#F0EBE3">XU</tspan>
+    </text>
+
+    <text text-anchor="middle" x="420" y="96" fill="#C4A0B0" font-family="'Courier New', Courier, monospace" font-size="12" letter-spacing="2">CS PhD · UC San Diego · Machine Learning</text>
+
+    <text text-anchor="middle" x="420" y="122" fill="#8B8BA0" font-family="sans-serif" font-size="11" opacity="0.85">Building ML systems for retrieval, recommendation, and scientific discovery</text>
+
+    <!-- Contact pixel squares -->
+    <g shape-rendering="crispEdges" opacity="0.35">
+      <rect x="393" y="168" width="6" height="6" fill="#454878" rx="1"/>
+      <rect x="408" y="168" width="6" height="6" fill="#C4707A" rx="1"/>
+      <rect x="423" y="168" width="6" height="6" fill="#7B6B9E" rx="1"/>
+      <rect x="438" y="168" width="6" height="6" fill="#9B7A90" rx="1"/>
+    </g>
+  </g>
+</svg>
