@@ -30,25 +30,6 @@ Previously at **Queen's University** (Prof. Laurence Yang) and **Samumed LLC**. 
 ![](https://img.shields.io/badge/Computational_Biology-C4707A?style=flat-square)
 ![](https://img.shields.io/badge/Interpretable_ML-8BA4C4?style=flat-square)
 
-### `> publications`
-
-| | |
-|:---:|---|
-| ![](https://img.shields.io/badge/%20-C4707A?style=flat-square) | **Generalizable Supervised Learning for Spectral Library Searching** — *ASMS, 2026* |
-| ![](https://img.shields.io/badge/%20-9B7A90?style=flat-square) | **Pep2Prob Benchmark**: Predicting Fragmentation Ion Probability for MS2-based Proteomics — *In submission, 2025* |
-| ![](https://img.shields.io/badge/%20-7B6B9E?style=flat-square) | **Deciphering Compatibility Relationships** via Extraction and Explanation — *AAAI, 2024 (oral)* |
-| ![](https://img.shields.io/badge/%20-454878?style=flat-square) | **GripNet**: Graph Information Propagation on Supergraph for Heterogeneous Graphs — *Pattern Recognition, 2023* |
-| ![](https://img.shields.io/badge/%20-8BA4C4?style=flat-square) | **TIP**: Tri-graph Information Propagation for Polypharmacy Side Effect Prediction — *GRL @ NeurIPS, 2019* |
-
-### `> open_source`
-
-| | | |
-|:---:|---|---|
-| ![](https://img.shields.io/badge/%20-454878?style=flat-square) | [**PyKale**](https://github.com/pykale/pykale) | PyTorch ecosystem library for knowledge-aware ML · 29k downloads |
-| ![](https://img.shields.io/badge/%20-C4707A?style=flat-square) | [**APRILE**](https://github.com/NYXFLOWER/APRILE-Exp) | Explainable ML for adverse drug reaction discovery · 6k downloads |
-| ![](https://img.shields.io/badge/%20-7B6B9E?style=flat-square) | [**PaperWritingLLM**](https://github.com/NYXFLOWER/PaperWritingLLM) | Terminal AI writing assistant · fine-tuned Qwen2.5-7B |
-| ![](https://img.shields.io/badge/%20-9B7A90?style=flat-square) | [**Pep2Prob**](https://github.com/NYXFLOWER/pep2prob-benchmark) | First ML benchmark for fragment ion probability prediction |
-
 ---
 
 <div align="center">
