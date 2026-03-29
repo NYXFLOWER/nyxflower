@@ -15,6 +15,6 @@
 
 ### `> about`
 
-Hi, I’m Flower, a CS PhD student at the **UC San Diego**, supervised by Prof. Nuno Bandeira. My research focuses on developing machine learning method, including retrieval, reranking, generative models, and graph neural , with applications in mass spectrometry-based proteomics and recommendation systems.
+Hi, I’m Flower, a CS PhD student at the UC San Diego, supervised by Prof. Nuno Bandeira. My research focuses on developing machine learning method, including **retrieval**, **reranking**, **generative models**, and **graph neural networks**, with applications in *mass spectrometry*-based **proteomics** and **recommendation systems**.
 
 ---
