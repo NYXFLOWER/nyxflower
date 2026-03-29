@@ -17,12 +17,4 @@
 
 CS PhD student at the **University of California, San Diego**, working under the supervision of Prof. Nuno Bandeira. My research focuses on developing machine learning methods — including retrieval, reranking, generative models, and graph neural networks — with applications in mass spectrometry-based proteomics and recommendation systems.
 
-Previously, I was a Machine Learning Scientist Intern at **TikTok Inc.** (2025), designing graph neural networks for large-scale social recommendation. Before that, I worked as a researcher applying ML to computational biology at **Queen's University** with Prof. Laurence Yang, and as a machine learning consultant at **Samumed LLC**.
-
-I hold an honoured MSc in Computer Science from the **University of Sheffield**, where I earned the Fretwell-Downing Prize for the best M.Sc. Dissertation. I also received the D. E. Shaw Graduate and Postdoctoral Fellowship in 2023.
-
-### `> research`
-
-`Retrieval & Ranking` `Graph Neural Networks` `Recommendation Systems` `Computational Biology` `Interpretable ML`
-
 ---
